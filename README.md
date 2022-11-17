@@ -1,6 +1,6 @@
 
 # IBM-Project-20262-1659715972
-#  Heart-Desease-Prediction
+#  Heart-Disease-Prediction
 
 ## Category: Data Analytics & Machine Learning
 
