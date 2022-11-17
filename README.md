@@ -2,7 +2,7 @@
 # IBM-Project-20262-1659715972
 #  Heart-Desease-Prediction
 
-## Category: Data Analysis & Machine Learning
+## Category: Data Analytics & Machine Learning
 
 
 **Batch Name :** B5-5M1E
